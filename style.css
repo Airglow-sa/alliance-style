@@ -7,16 +7,12 @@ body {
 }
 #main-content {
     background: #FFF;
-    background-image: url(http://scientific-alliance.wdfiles.com/local--files/admin%3Amanage/Ground);
+    background-image: url(img/ground.png);
     background-repeat: repeat-x;
     color: #555;
     padding: 0 30px 3px;
     margin: 0 0 -15px 216px;
 }
-
-/* #page-content {
-  width: 863px;
-} */
 
 #page-title {
     font-family: Verdana;
@@ -88,10 +84,6 @@ hr {
 }
 #header h1 a, #header h1 a:hover {
     display: block;
-    /*
-      :TODO: is that a wrong URL?!
-      background: transparent url(http://scientific-alliance.wikidot.com) no-repeat;
-  */
     color: #F1F2E1;
     text-decoration: none;
     text-indent: 127px;
